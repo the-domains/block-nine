@@ -1,0 +1,28 @@
+name: Block Nine
+favicon: null
+layout_spectrum: 0.2950012271758169
+typography_spectrum: 0.8622554047033191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.33420920302160084
+  lightness: 0.8271309132687747
+  saturation: 0.028041078010573983
+  rhythmicContrast: 0.6155861227307469
+purpose: []
